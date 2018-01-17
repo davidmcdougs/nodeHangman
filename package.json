@@ -1,0 +1,24 @@
+{
+  "name": "nodehangman",
+  "version": "1.0.0",
+  "description": "pass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmcdougs/nodeHangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidmcdougs/nodeHangman/issues"
+  },
+  "homepage": "https://github.com/davidmcdougs/nodeHangman#readme",
+  "dependencies": {
+    "coolstory.js": "^0.1.2",
+    "inquirer": "^5.0.0",
+    "random-word": "^2.0.0"
+  }
+}
